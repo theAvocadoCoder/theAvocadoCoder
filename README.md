@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./assets/img/kelechi-nwauwa-profile.jpg" width="100" style="border-radius:100%" />
+  <img src="./assets/img/kelechi-nwauwa-profile.png" width="150" />
 </div>
 
 <div align="center">
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/GIT-B7E4C7?style=flat&logo=git" height=25>
 </p>
 
-## :push_pin: My Affiliated Projects :
+## :pushpin: My Affiliated Projects :
 
 <table bordercolor="#66b2b2">
   
