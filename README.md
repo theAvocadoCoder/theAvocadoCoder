@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./assets/img/kelechi-nwauwa-profile.png" width="150" />
+  <img src="./assets/img/k_profile.jpg" width="150" />
 </div>
 
 <div align="center">
