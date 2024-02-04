@@ -44,17 +44,9 @@
   <img src="https://img.shields.io/badge/SaSS-B7E4C7?style=flat&logo=sass" height=25>
   <img src="https://img.shields.io/badge/TailwindCSS-B7E4C7?style=flat&logo=tailwindcss" height=25>
   <img src="https://img.shields.io/badge/JavaScript-B7E4C7?style=flat&logo=javascript" height=25>
-  <img src="https://img.shields.io/badge/Json-B7E4C7?style=flat&logo=json" height=25>
-  <img src="https://img.shields.io/badge/Typescript-B7E4C7?style=flat&logo=typescript" height=25>
   <img src="https://img.shields.io/badge/React-B7E4C7?style=flat&logo=react" height=25>
   <img src="https://img.shields.io/badge/Redux-B7E4C7?style=flat&logo=redux&logoColor=764ABC" height=25>
-  <img src="https://img.shields.io/badge/Node.JS-B7E4C7?style=flat&logo=nodedotjs" height=25>
-  <img src="https://img.shields.io/badge/MongoDB-B7E4C7?style=flat&logo=mongodb" height=25>
-  <img src="https://img.shields.io/badge/Laravel-B7E4C7?style=flat&logo=laravel" height=25>
   <img src="https://img.shields.io/badge/Figma-B7E4C7?style=flat&logo=figma" height=25>
-  <img src="https://img.shields.io/badge/Postman-B7E4C7?style=flat&logo=postman" height=25>
-  <img src="https://img.shields.io/badge/Linear-B7E4C7?style=flat&logo=linear" height=25>
-  <img src="https://img.shields.io/badge/Visual_Studio-B7E4C7?style=flat&logo=visual%20studio&logoColor=007ACC" height=25>
   <img src="https://img.shields.io/badge/GIT-B7E4C7?style=flat&logo=git" height=25>
 </p>
 
@@ -78,7 +70,7 @@
           <img src="https://img.shields.io/badge/Website-164C78?style=flat" height=25>
         </a> 
       </p>
-      <p><strong>React, Zustand, TailwindCSS </strong> - Carmel Homes Limited is a real estate company that offers a comprehensive rent-to-own program. On the company website, interested potential home owners can learn about the program and apply or book a callback. Investors and other property experts are invited to partner with the company.</p>
+      <p><strong>React, Zustand, TailwindCSS </strong> - This is the official website of Carmel Homes Ltd. This website, crafted using React, is designed to provide a seamless and informative experience for visitors.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Plantify</h3>
@@ -115,7 +107,7 @@
           <img src="https://img.shields.io/badge/Website-164C78?style=flat" height=25>
         </a> 
       </p>
-      <p><strong>React, TailwindCSS</strong> - A pixel art creation web app.</p>
+      <p><strong>React, TailwindCSS</strong> - Pixelite empowers digital artists to express their creativity through pixel art. Users can choose from a range of square canvas sizes, change their 'pen' color, and download their creations.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Random Quotes Generator</h3>
