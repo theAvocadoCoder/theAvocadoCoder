@@ -3,15 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=1AA34A&vCenter=true&center=true&width=520&lines=Kelechi+Nwauwa+🥑;FrontEnd+Developer;JavaScript+Aficionado">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=1AA34A&vCenter=true&center=true&width=520&lines=Kelechi+Nwa-uwa+🥑;Software+Engineer;JavaScript+Enthusiast">
 </div>
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/kelechi-nwauwa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:nwauwa.kelechi.e@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-red?style=flat=square&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </div>
 
@@ -21,110 +21,42 @@
 </h1>
 
 <p align="center">
-  It appears you've stumbled across my portfolio. Please, stick around. Browse a repo, maybe raise an issue, maybe leave a star. I'm open to collaborations, contract work and employment so don't be shy, feel free to reach out :)
+  It appears you've stumbled across my portfolio. Please, stick around. Browse a repo; maybe raise an issue, maybe leave a star. I'm open to collaborations, contract work and employment so don't be shy, feel free to reach out :)
 </p>
 
-## :mailbox: How to Reach Me :
+## :mailbox: How to Reach Me:
 
-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelechi-nwauwa)
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelechi-nwauwa)
 
-- [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nwauwa.kelechi.e@gmail.com)
+- [![Email Badge](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nwauwa.kelechi.e@gmail.com)
 
-## :fire: My Stats :
+## :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theavocadocoder&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=theAvocadoCoder&show_icons=true&include_all_commits=true&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theAvocadoCoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## :hammer_and_wrench: My Arsenal :
+## :hammer_and_wrench: My Arsenal:
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-B7E4C7?style=flat&logo=html5" height=25>
-  <img src="https://img.shields.io/badge/CSS3-B7E4C7?style=flat&logo=css3&logoColor=2388C3" height=25>
-  <img src="https://img.shields.io/badge/SaSS-B7E4C7?style=flat&logo=sass" height=25>
-  <img src="https://img.shields.io/badge/TailwindCSS-B7E4C7?style=flat&logo=tailwindcss" height=25>
-  <img src="https://img.shields.io/badge/JavaScript-B7E4C7?style=flat&logo=javascript" height=25>
-  <img src="https://img.shields.io/badge/React-B7E4C7?style=flat&logo=react" height=25>
-  <img src="https://img.shields.io/badge/Redux-B7E4C7?style=flat&logo=redux&logoColor=764ABC" height=25>
-  <img src="https://img.shields.io/badge/Figma-B7E4C7?style=flat&logo=figma" height=25>
-  <img src="https://img.shields.io/badge/GIT-B7E4C7?style=flat&logo=git" height=25>
+  <img src="https://img.shields.io/badge/HTML-rgb(33,40,48)?style=flat-square&logo=html5" height=40>
+  <img src="https://img.shields.io/badge/CSS-rgb(33,40,48)?style=flat-square&logo=css3&logoColor=2388C3" height=40>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-rgb(33,40,48)?style=flat-square&logo=tailwindcss" height=40>
+  <img src="https://img.shields.io/badge/Sass-rgb(33,40,48)?style=flat-square&logo=sass" height=40>
+  <img src="https://img.shields.io/badge/JavaScript-rgb(33,40,48)?style=flat-square&logo=javascript" height=40>
+  <img src="https://img.shields.io/badge/Typescript-rgb(33,40,48)?style=flat-square&logo=typescript" height=40>
+  <img src="https://img.shields.io/badge/React_JS-rgb(33,40,48)?style=flat-square&logo=react" height=40>
+  <img src="https://img.shields.io/badge/Vue%2Ejs-rgb(33,40,48)?style=flat-square&logo=vuedotjs" height=40>
+  <img src="https://img.shields.io/badge/Redux-rgb(33,40,48)?style=flat-square&logo=redux&logoColor=764ABC" height=40>
+  <img src="https://img.shields.io/badge/Vitest-rgb(33,40,48)?style=flat-square&logo=vitest" height=40>
+  <img src="https://img.shields.io/badge/Jest-rgb(33,40,48)?style=flat-square&logo=jest" height=40>
+  <img src="https://img.shields.io/badge/Cypress-rgb(33,40,48)?style=flat-square&logo=cypress" height=40>
+  <img src="https://img.shields.io/badge/Swagger%28OpenAI%29-rgb(33,40,48)?style=flat-square&logo=swagger" height=40>
+  <img src="https://img.shields.io/badge/Nuxt-rgb(33,40,48)?style=flat-square&logo=nuxt" height=40>
+  <img src="https://img.shields.io/badge/MongoDB-rgb(33,40,48)?style=flat-square&logo=mongodb" height=40>
+  <img src="https://img.shields.io/badge/Docker-rgb(33,40,48)?style=flat-square&logo=docker" height=40>
+  <img src="https://img.shields.io/badge/Figma-rgb(33,40,48)?style=flat-square&logo=figma" height=40>
+  <img src="https://img.shields.io/badge/Git-rgb(33,40,48)?style=flat-square&logo=git" height=40>
+  <img src="https://img.shields.io/badge/GitHub-rgb(33,40,48)?style=flat-square&logo=github" height=40>
+  <img src="https://img.shields.io/badge/Postman-rgb(33,40,48)?style=flat-square&logo=postman" height=40>
 </p>
-
-## :pushpin: My Affiliated Projects :
-
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Carmel Homes</h3>
-      <br />
-      <a target="_blank" href="http://www.carmelhomesltd.com">
-        <img src="./assets/img/carmel.png" width="100%" alt="Carmel Homes"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/theavocadocoder/carmel-homes" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-164C78?style=flat&logo=github" height=25>
-        </a>
-        <a href="https://www.carmelhomesltd.com" target="blank">
-          <img src="https://img.shields.io/badge/Website-164C78?style=flat" height=25>
-        </a> 
-      </p>
-      <p><strong>React, Zustand, TailwindCSS </strong> - This is the official website of Carmel Homes Ltd. This website, crafted using React, is designed to provide a seamless and informative experience for visitors.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Plantify</h3>
-      <br />
-      <a target="_blank" href="https://plantify-app.netlify.app">
-        <img src="./assets/img/plantify.png" width="100%" alt="Plantify"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/theAvocadoCoder/plantify" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-164C78?style=flat&logo=github" height=25>
-        </a>
-        <a href="https://plantify-app.netlify.app" target="blank">
-          <img src="https://img.shields.io/badge/Website-164C78?style=flat" height=25>
-        </a> 
-      </p>
-      <p><strong>React, SCSS </strong> -  A plant identification web app</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Pixelite</h3>
-      <br />
-      <a target="_blank" href="https://theavocadocoder.github.io/pixelite/">
-        <img src="./assets/img/pixelite.gif" width="100%" alt="Pixelite"/>
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/theAvocadoCoder/pixelite" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-164C78?style=flat&logo=github" height=25>
-        </a>
-        <a href="https://theavocadocoder.github.io/pixelite" target="blank">
-          <img src="https://img.shields.io/badge/Website-164C78?style=flat" height=25>
-        </a> 
-      </p>
-      <p><strong>React, TailwindCSS</strong> - Pixelite empowers digital artists to express their creativity through pixel art. Users can choose from a range of square canvas sizes, change their 'pen' color, and download their creations.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Random Quotes Generator</h3>
-      <br />
-      <a target="_blank" href="https://theavocadocoder.github.io/random-quotes-generator">
-        <img src="./assets/img/rqg.png" width="100%"  alt="Random Quotes Generator">
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/theAvocadoCoder/random-quotes-generator" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-164C78?style=flat&logo=github" height=25>
-        </a>
-        <a href="https://theavocadocoder.github.io/random-quotes-generator" target="blank">
-          <img src="https://img.shields.io/badge/Website-164C78?style=flat" height=25>
-        </a> 
-      </p>
-      <p><strong>React, CSS </strong> - A random quote generator</p>
-    </td>
-  </tr>
-</table>
