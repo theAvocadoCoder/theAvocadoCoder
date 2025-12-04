@@ -24,23 +24,11 @@
   It appears you've stumbled across my portfolio. Please, stick around. Browse a repo; maybe raise an issue, maybe leave a star. I'm open to collaborations, contract work and employment so don't be shy, feel free to reach out :)
 </p>
 
-## :mailbox: How to Reach Me:
-
-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelechi-nwauwa)
-
-- [![Email Badge](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:nwauwa.kelechi.e@gmail.com)
-
-## :fire: My Stats:
-
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=theAvocadoCoder&show_icons=true&include_all_commits=true&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theAvocadoCoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## :hammer_and_wrench: My Arsenal:
+## :hammer_and_wrench: My Proficiencies:
 
 <p>
   <img src="https://img.shields.io/badge/HTML-rgb(33,40,48)?style=flat-square&logo=html5" height=40>
-  <img src="https://img.shields.io/badge/CSS-rgb(33,40,48)?style=flat-square&logo=css3&logoColor=2388C3" height=40>
+  <img src="https://img.shields.io/badge/CSS-rgb(33,40,48)?style=flat-square&logo=css&logoColor=2388C3" height=40>
   <img src="https://img.shields.io/badge/Tailwind_CSS-rgb(33,40,48)?style=flat-square&logo=tailwindcss" height=40>
   <img src="https://img.shields.io/badge/Sass-rgb(33,40,48)?style=flat-square&logo=sass" height=40>
   <img src="https://img.shields.io/badge/JavaScript-rgb(33,40,48)?style=flat-square&logo=javascript" height=40>
