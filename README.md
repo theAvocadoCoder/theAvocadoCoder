@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="./assets/img/k_profile.jpg" width="150" />
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=1AA34A&vCenter=true&center=true&width=520&lines=Kelechi+Nwa-uwa+🥑;Software+Engineer;JavaScript+Enthusiast">
 </div>
