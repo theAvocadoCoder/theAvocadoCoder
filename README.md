@@ -17,7 +17,7 @@
 </h1>
 
 <p align="center">
-  It appears you've stumbled across my portfolio. Please, stick around. Browse a repo; maybe raise an issue, maybe leave a star. I'm open to collaborations, contract work and employment so don't be shy, feel free to reach out :)
+  It appears you've stumbled across my portfolio. Please, stick around. Browse a repo; maybe raise an issue, maybe leave a star. I'm open to collaborations so don't be shy, feel free to reach out :)
 </p>
 
 ## :hammer_and_wrench: My Proficiencies:
